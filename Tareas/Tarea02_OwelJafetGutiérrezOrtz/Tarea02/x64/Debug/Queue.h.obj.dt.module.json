@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Tarea02\\x64\\Debug\\Queue.obj",
+            "outputs": [
+                "Tarea02\\x64\\Debug\\Queue.h.obj.dt.module.json",
+                "Tarea02\\x64\\Debug\\Queue.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

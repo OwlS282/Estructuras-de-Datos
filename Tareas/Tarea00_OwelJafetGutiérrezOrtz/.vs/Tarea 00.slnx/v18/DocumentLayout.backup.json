@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\owell\\Documents\\GitHub\\Estructuras-de-Datos\\Tareas\\Tarea00_OwelJafetGuti\u00E9rrezOrtz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E90965AF-5C16-4FE6-A80E-4B81A16A5530}|Tarea 0\\Tarea 0.vcxproj|C:\\Users\\owell\\Documents\\GitHub\\Estructuras-de-Datos\\Tareas\\Tarea00_OwelJafetGuti\u00E9rrezOrtz\\Tarea 0\\Tarea 00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E90965AF-5C16-4FE6-A80E-4B81A16A5530}|Tarea 0\\Tarea 0.vcxproj|solutionrelative:Tarea 0\\Tarea 00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarea 00.cpp",
+              "DocumentMoniker": "C:\\Users\\owell\\Documents\\GitHub\\Estructuras-de-Datos\\Tareas\\Tarea00_OwelJafetGuti\u00E9rrezOrtz\\Tarea 0\\Tarea 00.cpp",
+              "RelativeDocumentMoniker": "Tarea 0\\Tarea 00.cpp",
+              "ToolTip": "C:\\Users\\owell\\Documents\\GitHub\\Estructuras-de-Datos\\Tareas\\Tarea00_OwelJafetGuti\u00E9rrezOrtz\\Tarea 0\\Tarea 00.cpp",
+              "RelativeToolTip": "Tarea 0\\Tarea 00.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-12T03:46:03.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
