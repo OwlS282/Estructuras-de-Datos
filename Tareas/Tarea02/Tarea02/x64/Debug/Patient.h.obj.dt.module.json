@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Tarea02\\x64\\Debug\\Patient.obj",
+            "outputs": [
+                "Tarea02\\x64\\Debug\\Patient.h.obj.dt.module.json",
+                "Tarea02\\x64\\Debug\\Patient.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
