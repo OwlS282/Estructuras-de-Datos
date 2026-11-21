@@ -1,4 +1,24 @@
 # Estructuras-de-Datos
-Tareas, Proyectos y Exámenes de Estructuras de Datos
 
-**Lenguaje:** C++
+Repositorio con las tareas, proyectos y exámenes del curso de **Estructuras de Datos**, desarrollados en **C++**.
+
+## Contenido
+
+```
+Programacion-Orientada-A-Objetos/
+├── Tareas/        - Tareas cortas del curso
+├── Proyectos/     - Proyectos del curso
+├── Exámenes/      - Exámenes del curso
+├── .gitignore
+└── README.md
+```
+
+## Autor
+
+Owel Jafet Gutiérrez Ortiz
+
+## Institución
+
+Instituto Tecnológico de Costa Rica
+Escuela de Computación
+Bachillerato en Ingeniería en Computación
