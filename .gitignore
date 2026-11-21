@@ -1,0 +1,100 @@
+# ==========================================
+# .gitignore para el repositorio de Estructuras de Datos
+# C++ con Visual Studio Code o Visual Studio
+# Va en la raíz, junto a Tareas/ y Proyectos/
+# Los patrones sin "/" inicial aplican en todas las subcarpetas
+# ==========================================
+
+# ==========================================
+# Archivos compilados y ejecutables
+# ==========================================
+*.obj
+*.o
+*.exe
+*.lib
+*.a
+*.dll
+*.exp
+*.pch
+*.gch
+
+# ==========================================
+# Depuración y enlazador
+# ==========================================
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.map
+
+# ==========================================
+# Directorios de compilación
+# ==========================================
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+build/
+out/
+ipch/
+
+# ==========================================
+# Visual Studio
+# ==========================================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.ncb
+*.sdf
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.aps
+*.tlog
+*.lastbuildstate
+*.recipe
+*.unsuccessfulbuild
+*.log
+
+# ==========================================
+# VS Code (por si se abre la carpeta con VS Code)
+# ==========================================
+.vscode/
+
+# ==========================================
+# Archivos comprimidos
+# ==========================================
+*.zip
+*.rar
+*.7z
+
+# ==========================================
+# Archivos temporales
+# ==========================================
+tmp/
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# ==========================================
+# Archivos del sistema
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Credenciales y datos locales
+# ==========================================
+.env
+*.properties.local
+*.db
+*.sqlite
