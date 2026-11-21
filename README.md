@@ -5,7 +5,7 @@ Repositorio con las tareas, proyectos y exámenes del curso de **Estructuras de 
 ## Contenido
 
 ```
-Programacion-Orientada-A-Objetos/
+Estructuras-de-Datos/
 ├── Tareas/        - Tareas cortas del curso
 ├── Proyectos/     - Proyectos del curso
 ├── Exámenes/      - Exámenes del curso
